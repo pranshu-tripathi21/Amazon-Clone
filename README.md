@@ -1,2 +1,2 @@
 # Amazon-Clone
-I cloned Amazon website by using HTML and Vanilla CSS.
+I cloned Amazon website home page by using HTML and Vanilla CSS.
